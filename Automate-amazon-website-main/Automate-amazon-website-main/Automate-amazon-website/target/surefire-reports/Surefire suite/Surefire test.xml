@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="LAPTOP-V52H63RJ" failures="0" tests="1" name="testcases.PurchaseOrderTest" time="104.944" errors="0" timestamp="23 Jun 2026 19:12:07 GMT">
+  <testcase classname="testcases.PurchaseOrderTest" name="test_createPurchaseOrderForSingleProduct" time="101.164"/>
+</testsuite>
